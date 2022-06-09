@@ -273,18 +273,18 @@
         "Wallet": "rPiA4TGk9NxF9XMjzetm2hmmohNEWjJibK"
     },
     {
-        "D8A_Rewards": 27.1,
-        "Earned": 139.26,
-        "NFTs": 4,
-        "Ranking": 39,
-        "Wallet": "rKyMaDpGMyRQ2nMTDCJjEXjQt2xotc9Jir"
-    },
-    {
         "D8A_Rewards": 2088.9,
         "Earned": 139.26,
         "NFTs": 2,
-        "Ranking": 40,
+        "Ranking": 39,
         "Wallet": "r9Z95YArtpHCPeHogC1Ciyefhe5DRuowVY"
+    },
+    {
+        "D8A_Rewards": 27.1,
+        "Earned": 139.26,
+        "NFTs": 4,
+        "Ranking": 40,
+        "Wallet": "rKyMaDpGMyRQ2nMTDCJjEXjQt2xotc9Jir"
     },
     {
         "D8A_Rewards": 720.06,
